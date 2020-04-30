@@ -27,3 +27,5 @@ The notebook is organized in the following sections:
 6. Conclusion
 
 The main focus of this notebook is on non-deep learning techniques. Thus, only the last portion of the notebook is dedicated to deep learning.
+
+FINAL KAGGLE F1-SCORE: 0.83946
