@@ -1,6 +1,6 @@
 # Disaster_Tweet_Classification
 
-This notebook in this repository depicts a comprehensive programming solution to solve the Kaggle text classification challenge described [here](https://www.kaggle.com/c/nlp-getting-started/overview).
+This [notebook](https://drive.google.com/file/d/1u_UejkPSl6pCs_5SP_uS-lIlzPcWlUVt/view?usp=sharing) in this repository depicts a comprehensive programming solution to solve the Kaggle text classification challenge described [here](https://www.kaggle.com/c/nlp-getting-started/overview).
 
 <br>
 
@@ -17,7 +17,7 @@ At a high level, this notebook achieves the following:
 
 <br>
 
-The notebook is organized in the following sections:<br /><font size="2"> _**Note**: these sections can be navigated using the table of contents found in the left side-bar._
+The notebook is organized in the following sections:
 
 1. Introduction
 2. Load and Explore Data
