@@ -1,5 +1,7 @@
 # Disaster_Tweet_Classification
 
+FINAL KAGGLE F1-SCORE: 0.83946 (transfer learning with BERT)
+
 The [notebook](https://drive.google.com/file/d/1u_UejkPSl6pCs_5SP_uS-lIlzPcWlUVt/view?usp=sharing) in this repository depicts a comprehensive programming solution to solve the Kaggle text classification challenge described [here](https://www.kaggle.com/c/nlp-getting-started/overview).
 
 <br>
@@ -27,5 +29,3 @@ The notebook is organized in the following sections:
 6. Conclusion
 
 The main focus of this notebook is on non-deep learning techniques. Thus, only the last portion of the notebook is dedicated to deep learning.
-
-FINAL KAGGLE F1-SCORE: 0.83946
